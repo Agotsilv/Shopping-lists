@@ -3,8 +3,7 @@
 </h1>
 
 <h1>
-  <img 
-    src="https://ik.imagekit.io/dwei78ukbe/nasaGIF_kz_H03oo4.gif"
+  <img src='./github/Animação.gif'
   />
 </h1>
 
