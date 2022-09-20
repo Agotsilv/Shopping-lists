@@ -2,7 +2,7 @@
   <p>Project Shopping lists 🍎</p>
 </h1>
 
-<h1>
+<h1 align="center" >
   <img src='./github/Animação.gif'
   />
 </h1>
